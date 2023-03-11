@@ -38,7 +38,7 @@
         </field>
     </record>
 
-    <menuitem name="cicle Epico" id="cicle_base_menu" />
+    <menuitem name="Ciclos" id="cicle_base_menu" />
     <menuitem name="alumnos" id="cicle_alumno_menu" parent="cicle_base_menu" action="cicle_alumno_action"/>
 
 
